@@ -4,5 +4,5 @@
 - 📫 How to reach me ...
 
 - Github:
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/arham-shakil-6b7252292
 - Gmail: arhamshakil70@gmail.com
